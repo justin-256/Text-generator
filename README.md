@@ -1,6 +1,7 @@
 # Text-generator
 A simple text generator based on trigrams.
 
+You will need to unzip the dataset data.zip and put it in the same location as main.py
 
 ## Dataset contents:
 - https://www.kaggle.com/datasets/mylesoneill/classic-literature-in-ascii
